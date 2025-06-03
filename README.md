@@ -1,1 +1,9 @@
-# PAYMENT_docs
+# Payment methods overview
+
+#### Find a guide to integrate your payment method into Ecwid stores:&#x20;
+
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th data-type="content-ref"></th><th data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Connect online payment method</strong></td><td><a href="online-payments/online-payments-overview.md">online-payments-overview.md</a></td><td><a href="online-payments/process-online-payment-requests/">process-online-payment-requests</a></td></tr></tbody></table>
+
+#### Customize your payment methods:
+
+<table data-view="cards"><thead><tr><th data-type="content-ref"></th><th data-hidden></th></tr></thead><tbody><tr><td><a href="additional-payment-features/set-up-payment-fees.md">set-up-payment-fees.md</a></td><td>Set up payment fees</td></tr><tr><td><a href="additional-payment-features/collect-tips-donations-at-the-checkout.md">collect-tips-donations-at-the-checkout.md</a></td><td>Collect tips/donations at the checkout</td></tr><tr><td><a href="additional-payment-features/add-payment-instructions-to-the-checkout.md">add-payment-instructions-to-the-checkout.md</a></td><td>Add payment instructions for customers</td></tr><tr><td><a href="additional-payment-features/show-payment-icons-near-your-payment-method-at-the-checkout.md">show-payment-icons-near-your-payment-method-at-the-checkout.md</a></td><td>Display payment icons at the checkout</td></tr><tr><td><a href="additional-payment-features/collect-additional-information-before-payment.md">collect-additional-information-before-payment.md</a></td><td>Collect additional information before payment</td></tr><tr><td><a href="additional-payment-features/limit-payments-by-selected-shipping-method.md">limit-payments-by-selected-shipping-method.md</a></td><td>Limit payments by selected shipping method</td></tr></tbody></table>
