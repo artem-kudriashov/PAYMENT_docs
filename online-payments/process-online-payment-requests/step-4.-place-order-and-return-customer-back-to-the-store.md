@@ -20,7 +20,7 @@ The order is now placed in the store, the payment is complete, and the customer 
 
 In case of a failed transaction, first, you need to complete the backend part – update the order payment status to incomplete. Then, return customers to the storefront with an error message.
 
-To do so, take the `returnUrl` from the payment request received from Ecwid, add an `errorMsg=text` query parameter, and redirect a customer to the resulting URL. The text itself must be URI-encoded, for example: `https://example.com/123456?clientId=client_id&hash=ABC&errorMsg=Payment%20error`
+To do so, take the `returnUrl` from the payment request received from Ecwid, add an `errorMsg=text` query parameter, and redirect a customer to the resulting URL. The text itself must be URI-encoded, for example: `https://mystore.com/01234567?clientId=client_id&timestamp=1751294405226&key=abcdefgh&errorMsg=Payment%20error`
 
 A customer will be redirected back to the final checkout step (with all of the cart details as before the payment) and will see a notification displaying your error message.
 

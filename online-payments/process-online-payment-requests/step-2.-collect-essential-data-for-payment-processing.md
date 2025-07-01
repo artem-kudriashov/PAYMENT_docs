@@ -63,7 +63,7 @@ Every payment request contains the `returnUrl` field with a unique URL for retur
 Make sure to save and use this field for every transaction.
 {% endhint %}
 
-Example: `"returnUrl":"https://example.com/123456?clientId=my-payment-app?hash=***"`
+Example: `"returnUrl":"https://mystore.com/01234567?clientId=client_id&timestamp=1751294405226&key=abcdefgh"`
 
 #### Check for the store owner's app settings
 
